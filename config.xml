@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<widget xmls = "http://www.w3.org/ns/widgets"
+	xmlns:gap = "http://phonegap.com/ns/1.0"
+	id	= "com.phonegap.example"
+	versionCode ="10"
+	version = "1.0.0">
+	
+	<name> cinema </name>
+	
+	<description>
+		Generando apk
+	</description>
+	
+	<author href="https://github.com/chetu-skarlet/cines.git" email="acmestilo@gmail.com">
+	</author>
+	</widget>
